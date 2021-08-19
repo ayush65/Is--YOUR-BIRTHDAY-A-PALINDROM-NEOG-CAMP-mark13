@@ -24,6 +24,11 @@ main {
   font-size: xx-large;
 }
 
+#img5{
+  display: none;
+}
+
+
 p {
   padding: 2rem;
   text-align: left;
