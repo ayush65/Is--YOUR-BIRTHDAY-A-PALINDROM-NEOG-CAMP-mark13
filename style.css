@@ -3,8 +3,8 @@ body {
   padding: 3rem;
   box-sizing: border-box;
   height: 150vh;
-  background-color: #242B2E;
-  color: white;
+  background-color: white;
+  color: #242B2E;
   max-width: 700px ;
   font-size: xx-large;
  
@@ -14,7 +14,7 @@ body {
 
 
 main {
-  border: 1px solid white;
+  border: 1px solid #242B2E;
   text-align: center;
   height: 200%;
 }
