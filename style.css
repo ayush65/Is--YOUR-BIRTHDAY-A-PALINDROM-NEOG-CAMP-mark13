@@ -20,6 +20,9 @@ main {
   height: 200%;
 }
 
+#bday-input{
+  font-size: xx-large;
+}
 
 p {
   padding: 2rem;
@@ -27,3 +30,9 @@ p {
   font-size: large;
 }
 
+#show-btn{
+  color: white;
+  background-color: #242B2E;
+  font-size: x-large;
+  margin-top: 50px;
+}
