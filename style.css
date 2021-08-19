@@ -1,13 +1,13 @@
 body {
-  margin: 3rem;
-  padding: 1rem;
+  margin: 2rem;
+  padding: 3rem;
   box-sizing: border-box;
   height: 150vh;
   background-color: #242B2E;
   color: white;
   max-width: 700px ;
   font-size: xx-large;
-  align-self: center;
+ 
 
 
 }
